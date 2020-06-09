@@ -4,6 +4,8 @@ In this game, secret combination is restricted to have 4 non-repeating digits.
 
 It has Mandarin version and English version.
 
-Detailed thought process is in the comments of the game file. 
+Detailed thought process is in the comments of mastermind.m file
+
+To deploy or to see the UI of the game, please see mastermind.mlapp file
 
 ENJOY!!!!!
